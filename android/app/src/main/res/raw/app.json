@@ -1,0 +1,16 @@
+{
+  "name": "Imegine",
+  "displayName": "Imegine",
+  "compilerOptions": {
+    "target": "es5",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ]
+  },
+  "include": [
+    "src"
+  ],
+  "exclude": ["node_modules"]
+}

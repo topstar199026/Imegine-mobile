@@ -1,0 +1,2 @@
+export const SOCKET_API_SERVER = 'http://<SOCKET SERVER IP ADDRESS>:9026/socket/';
+export const SOCKET_SERVER = 'ws://<SOCKET SERVER IP ADDRESS>:9026';

@@ -1,0 +1,115 @@
+
+1: 
+    https://www.npmjs.com/package/@react-navigation/native
+    https://reactnavigation.org/docs/6.x/getting-started
+
+2:
+    https://docs.nativebase.io/install-rn
+    https://www.npmjs.com/package/native-base
+
+3:
+    npx react-native link
+
+4:
+    https://github.com/react-native-linear-gradient/react-native-linear-gradient
+
+5: 
+    https://github.com/oblador/react-native-progress
+
+6: 
+    https://github.com/react-native-svg/react-native-svg
+
+7: 
+    https://www.npmjs.com/package/react-native-qrcode-svg
+
+8: Font Missing
+    component:   CChatItem/{ReceiveEmailItem} Helvetica Neue font
+
+9: 
+    https://github.com/react-native-modal/react-native-modal
+
+10:
+    https://github.com/alpha0010/react-native-pdf-viewer
+    https://github.com/alpha0010/react-native-file-access
+    ****https://github.com/wonday/react-native-pdf
+    ****https://github.com/rumax/react-native-PDFView
+
+11:
+    busy modal needs blur...
+
+12: 
+    https://github.com/YanYuanFE/react-native-signature-canvas
+    https://github.com/react-native-webview/react-native-webview
+
+13:
+    https://github.com/wix/react-native-calendars
+
+14:
+    https://github.com/henninghall/react-native-date-picker
+    https://github.com/acro5piano/react-native-big-calendar
+
+15: 
+    https://github.com/glepur/react-native-swipe-gestures
+
+16: 
+    https://github.com/react-native-async-storage/async-storage
+    https://github.com/reduxjs/react-redux
+    https://github.com/LogRocket/redux-logger
+    https://github.com/rt2zz/redux-persist
+    https://github.com/reduxjs/redux-thunk
+    https://github.com/reduxjs/redux
+
+17:
+    https://github.com/amitaymolko/react-native-rsa-native
+
+18: 
+    https://github.com/magicismight/react-native-root-toast
+    https://github.com/imchintan/react-native-crypto-js
+
+19:
+    https://github.com/moaazsidat/react-native-qrcode-scanner
+    https://github.com/react-native-camera/react-native-camera
+    https://github.com/zoontek/react-native-permissions
+
+20: 
+    https://docs.mongodb.com/realm/sdk/react-native/quick-start-local/
+    https://www.npmjs.com/package/bson#documentation
+    https://www.npmjs.com/package/react-native-get-random-values
+
+21:
+    https://github.com/wxik/react-native-rich-editor#richeditor
+    *react-native-webview-quilljs
+    *react-native-zss-rich-text-editor
+
+22:
+    https://github.com/jsdf/react-native-htmlview
+
+23:
+    https://github.com/react-native-cameraroll/react-native-cameraroll
+    
+24: 
+    https://github.com/digitalbazaar/forge
+    https://github.com/itinance/react-native-fs
+    https://github.com/joltup/rn-fetch-blob
+    
+    *https://www.npmjs.com/package/cryptify
+    *https://gist.github.com/autotrof/7d882f37c80d3cdd476616a5c5c3ee80
+    *https://www.npmjs.com/package/node-forge
+
+25:
+    https://github.com/ivpusic/react-native-image-crop-picker
+
+26:
+    help
+    https://medium.com/swlh/how-to-use-flatlist-with-hooks-in-react-native-and-some-optimization-configs-7bf4d02c59a0
+
+27:
+    https://github.com/leecade/react-native-swiper
+
+28:
+    https://github.com/brdar/react-native-slider
+
+29:
+    https://github.com/jemise111/react-native-swipe-list-view
+    *https://www.npmjs.com/package/@nghinv/react-native-swipe-row
+    
